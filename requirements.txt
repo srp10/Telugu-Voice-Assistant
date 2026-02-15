@@ -1,0 +1,4 @@
+openai>=1.0.0
+anthropic>=0.18.0
+gtts>=2.3.0
+pydub>=0.25.0

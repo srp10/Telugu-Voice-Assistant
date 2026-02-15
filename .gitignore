@@ -1,0 +1,22 @@
+# API Keys and secrets
+APIKEY
+.env
+files/APIKEY
+
+# macOS
+.DS_Store
+
+# Audio files (large binary files)
+*.mp3
+
+# Generated files
+response.mp3
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Zip files
+*.zip

@@ -1,0 +1,37 @@
+{
+  "test1_balance.mp3": {
+    "speaker": "Elderly female, 65 years",
+    "region": "Hyderabad, Telangana",
+    "expected_transcription": "నా ఖాతా బ్యాలెన్స్ ఎంత?",
+    "expected_intent": "balance_check",
+    "notes": "Clear pronunciation, minimal background noise"
+  },
+  "test2_transactions.mp3": {
+    "speaker": "Middle-aged male, 45 years",
+    "region": "Vijayawada, Andhra Pradesh",
+    "expected_transcription": "నా చివరి లావాదేవీలు చూపించండి",
+    "expected_intent": "transactions",
+    "notes": "Coastal Andhra accent"
+  },
+  "test3_account_number.mp3": {
+    "speaker": "Elderly male, 70 years",
+    "region": "Warangal, Telangana",
+    "expected_transcription": "నా ఖాతా సంఖ్య ఏమిటి?",
+    "expected_intent": "account_info",
+    "notes": "Slow speech, Telangana dialect"
+  },
+  "test4_help.mp3": {
+    "speaker": "Young female, 28 years",
+    "region": "Guntur, Andhra Pradesh",
+    "expected_transcription": "నాకు సహాయం కావాలి",
+    "expected_intent": "help",
+    "notes": "Code-switching possible"
+  },
+  "test5_mini_statement.mp3": {
+    "speaker": "Middle-aged female, 52 years",
+    "region": "Karimnagar, Telangana",
+    "expected_transcription": "నా మినీ స్టేట్‌మెంట్ పంపించండి",
+    "expected_intent": "mini_statement",
+    "notes": "Rural accent"
+  }
+}
