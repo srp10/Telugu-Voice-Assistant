@@ -48,7 +48,13 @@ pip install -r requirements.txt
 
 ### 3. Set up API keys
 
-Create a `.env` file in the project root:
+Copy the example environment file and fill in your API keys:
+
+```bash
+cp .env.example .env
+```
+
+Then edit `.env` with your keys:
 
 ```env
 OPENAI_API_KEY=your-openai-api-key
